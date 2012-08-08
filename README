@@ -1,0 +1,6 @@
+Get a screen name, fetch as much of their tweet history as Twitter allows
+
+TODO: 
+
+Change to use argparse: get the screen name as an argument, accept options to
+remove retweets and to remove reply messages
